@@ -13,9 +13,9 @@ collections:
   docs:
     output: true
 
-name: Jekyll • Simple, blog-aware, static sites
+name: Custos
 description: Transform your plain text into static websites and blogs
-url: http://jekyllrb.com
+url: http://custos1412.github.io
 
 gems:
   - jekyll-feed
